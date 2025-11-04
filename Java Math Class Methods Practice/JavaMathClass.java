@@ -71,35 +71,6 @@ public class JavaMathClass {
       }
       System.out.println();
 
-      // --- Demonstrating Math class methods ---
-      System.out.println("== Other Math Class Methods ==");
-
-      // Constants
-      System.out.println("PI value: "+Math.PI);
-      System.out.println("E value: "+Math.E);
-
-      // Trigonometric
-      double rad = Math.toRadians(30);
-      System.out.println("sin(30°) = "+Math.sin(rad));
-      System.out.println("cos(30°) = "+Math.cos(rad));
-      System.out.println("tan(30°) = "+Math.tan(rad));
-
-      // Exponent and Log
-      System.out.println("exp(1) = "+Math.exp(1));
-      System.out.println("log(2.71) = "+Math.log(2.71));
-      System.out.println("pow(3.5, 2.5) = "+Math.pow(3.5,2.5));
-      System.out.println("sqrt(10.5) = "+Math.sqrt(10.5));
-
-      // Rounding
-      System.out.println("ceil(2.1) = "+Math.ceil(2.1));
-      System.out.println("floor(-2.1) = "+Math.floor(-2.1));
-      System.out.println("round(2.6f) = "+Math.round(2.6f));
-
-      // min, max, abs, random
-      System.out.println("max(2.5, 3.6) = "+Math.max(2.5,3.6));
-      System.out.println("min(2.5, 3.6) = "+Math.min(2.5,3.6));
-      System.out.println("abs(-2.1) = "+Math.abs(-2.1));
-      System.out.println("random() = "+Math.random());
 
       sc.close();
    }
