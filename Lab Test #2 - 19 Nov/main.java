@@ -17,7 +17,7 @@ public class MathPuzzle {
         int score = 0;
 
         try {
-            File qFile = new File("questions.txt");
+            File qFile =new File("questions.txt");
             Scanner qReader = new Scanner(qFile);
 
             List<String> questions = new ArrayList<>();
