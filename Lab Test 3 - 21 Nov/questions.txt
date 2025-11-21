@@ -1,0 +1,10 @@
+What is the capital of France?|Paris|London|Berlin|Madrid|1
+Who wrote Romeo and Juliet?|Charles Dickens|William Shakespeare|Jane Austen|Mark Twain|2
+What is the chemical symbol for water?|H2O|CO2|O2|NaCl|1
+Which planet is known as the Red Planet?|Venus|Mars|Jupiter|Saturn|2
+What is the largest ocean on Earth?|Atlantic Ocean|Indian Ocean|Arctic Ocean|Pacific Ocean|4
+Who painted the Mona Lisa?|Van Gogh|Picasso|Leonardo da Vinci|Michelangelo|3
+What is the square root of 64?|6|7|8|9|3
+Which country is famous for the Eiffel Tower?|Italy|France|Spain|Germany|2
+How many hours are in a day?|12|24|36|48|2
+What is the fastest land animal?|Lion|Cheetah|Horse|Tiger|2
