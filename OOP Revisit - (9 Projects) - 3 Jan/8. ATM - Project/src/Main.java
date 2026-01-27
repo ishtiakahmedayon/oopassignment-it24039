@@ -96,7 +96,7 @@ public class Main {
                 case 2:
                     System.out.print("Enter deposit amount: $");
                     double depositAmount = sc.nextDouble();
-                    myAccount.deposit(depositAmount);
+		    myAccount.deposit(depositAmount);
                     break;
                     
                 case 3:

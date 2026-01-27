@@ -9,7 +9,7 @@ public class SeriesSum{
       
       for(int i=1;i<=t;i++){
          
-         System.out.print("Case "+i+": Enter n"+i+": ");
+         System.out.print("Case "+i+": Enter n "+i+": ");
          int n = sc.nextInt();
          
          StringBuilder s = new StringBuilder();
